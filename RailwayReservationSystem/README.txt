@@ -1,0 +1,1 @@
+Open project in IntelliJ, compile and run Main.java
