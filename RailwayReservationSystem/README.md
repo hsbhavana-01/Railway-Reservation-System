@@ -41,12 +41,6 @@ README.md
 4. Exit
 ```
 
-## Online Demo
-
-OnlineGDB Project Link:
-
-PASTE_YOUR_ONLINEGDB_LINK_HERE
-
 ## Future Enhancements
 
 - User Login System
